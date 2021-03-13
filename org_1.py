@@ -1,6 +1,6 @@
 
 
-import numpy
+import numpy 
 from medpy.filter.smoothing import anisotropic_diffusion
 
 from skimage import color
