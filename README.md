@@ -1,5 +1,24 @@
 # aleph
 
+
+Original :
+
+
+![unnamed (1)](https://user-images.githubusercontent.com/58873465/194727703-01919212-873b-4bfd-96ad-c8d4e4a74cc2.jpg)
+
+
+
+Inpainting in action:
+
+
+
+
+![unnamed](https://user-images.githubusercontent.com/58873465/194727681-d41be46e-1ce3-4afa-b7d2-5faf68930526.gif)
+
+
+
+
+
 ![unnamed](https://user-images.githubusercontent.com/58873465/194727681-d41be46e-1ce3-4afa-b7d2-5faf68930526.gif)
 
 ![image](https://user-images.githubusercontent.com/58873465/194726873-aa2fbc18-8625-4122-aee9-10370265d9a8.png)
@@ -78,19 +97,7 @@ sions of 64×64.
 
 
 
-Original :
 
-
-![unnamed (1)](https://user-images.githubusercontent.com/58873465/194727703-01919212-873b-4bfd-96ad-c8d4e4a74cc2.jpg)
-
-
-
-Inpainting in action:
-
-
-
-
-![unnamed](https://user-images.githubusercontent.com/58873465/194727681-d41be46e-1ce3-4afa-b7d2-5faf68930526.gif)
 
  
 Results:
